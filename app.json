@@ -125,7 +125,7 @@
         },
         "SUPPORT_CHANNEL": {
             "description": "Telegram Channel Link",
-            "value": "https://t.me/FallenProjects",
+            "value": "https://t.me/skandalbangettt",
             "required": false
         },
         "AUTO_LEAVE": {
